@@ -8,11 +8,7 @@ I was getting asked by a lot of people if they could help out in some way - I ge
 
 https://www.paypal.me/ashenbubs
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="78RA8X8V3FCP4" />
-<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/ashenbubs)
 
 Please use XIPIVOT to install these mods.
 
@@ -43,6 +39,9 @@ I'm working on items from a release perspective (Original > Jirat > CoP > ToAU, 
 
 More image examples can be found within the Images directory and on Twitter:
 http://twitter.com/ashenbubsHD
-
-
-
+<form action="https://www.paypal.me/ashenbubs" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RGQ8NSYPA59FL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
+</form>

@@ -24,6 +24,13 @@ Over 32,000 DAT changes! Over 232,000 textures updated!
 
 TL;DR:  Click the green "Code" button in the top right, click "Download Zip", watch the YouTube video posted below.
 
+# PREVIEW VIDEOS (4K):
+Cutscene Trailer
+[![YouTube Video Cutscene Trailer](http://i3.ytimg.com/vi/mKBaFDiS1mU/maxresdefault.jpg)](https://youtu.be/mKBaFDiS1mU?t=47)
+
+Gameplay Trailer
+[![YouTube Video Gameplay Trailer](http://i3.ytimg.com/vi/g58un02xYoY/maxresdefault.jpg)](https://www.youtube.com/watch?v=g58un02xYoY&ab_channel=Ashenbubs)
+
 # INSTALLATION GUIDE:
 YouTube Video Install Guide:
 

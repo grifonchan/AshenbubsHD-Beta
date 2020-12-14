@@ -19,7 +19,7 @@ ALL trusts
 
 VAST majority of Monsters (85%+)
 
-Over 28,000 DAT changes! Over 60,000 textures updated!
+Over 32,000 DAT changes! Over 232,000 textures updated!
 
 TL;DR:  Click the green "Code" button in the top right, click "Download Zip", watch the YouTube video posted below.
 

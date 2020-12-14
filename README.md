@@ -8,6 +8,7 @@ I was getting asked by a lot of people if they could help out in some way - I ge
 
 https://www.paypal.me/ashenbubs
 
+![alt text](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)
 
 Please use XIPIVOT to install these mods.
 

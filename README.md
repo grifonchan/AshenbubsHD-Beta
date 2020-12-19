@@ -39,9 +39,7 @@ YouTube Video Install Guide:
 or
 https://github.com/Ashenbubs/AshenbubsHD/issues/4
 
-A Final Fantasy XI HD Project for models - Armor, Enemies, NPCs, Magic effects etc.  This project currently is not looking at upscaling Zones (IE: Towns, Dungeons, etc - Although Ru'Aun Gardens has been completed as a test for how this would work), and instead of focused on sharpening up and upscaling textures of all other NPC/player based objects.
-
-I'm working on items from a release perspective (Original > Jirat > CoP > ToAU, etc) - I'm currently not playing FFXI, however I have played FFXI on retail for nearly 2 decades since original JP release on PC.  It is my favourite video game of all time, and I hope I can accurately keep it's aesthetics as close to the original as possible.
+A Final Fantasy XI HD Project for EVERYTHING - Armor, Enemies, NPCs, Magic effects etc. - Focused on sharpening up and upscaling textures.
 
 
 More image examples can be found within the Images directory and on Twitter:

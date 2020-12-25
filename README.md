@@ -12,17 +12,39 @@ https://www.paypal.me/ashenbubs
 
 Please use XIPIVOT to install these mods.
 
-ALL weapons
+# This upscale contains:
 
-ALL armor
+All weapons
 
-ALL trusts
+All armor
 
-VAST majority of Monsters (85%+)
+All NPCs
+
+All mounts
+
+All zones
+
+All monsters
+
+All spell effects
+
+All weapon skills
+
+All monster TP-attacks
+
+All cutscenes
+
+(If, however, you do find any missing, please let me know on the "Issues" tab within GitHub and I'll do my best to update files asap!)
 
 Over 32,000 DAT changes! Over 232,000 textures updated!
 
 TL;DR:  Click the green "Code" button in the top right, click "Download Zip", watch the YouTube video posted below.
+
+I've had several uses say that GitHub times-out their download, you can find a recent upload on Google Drive here:
+
+https://drive.google.com/file/d/1sfv-IXg83DRcZvt2Z4uEGZJHs6moyZBa/view?usp=sharing
+
+Please note this file will not be kept up to date often like GitHub is.
 
 # PREVIEW VIDEOS (4K):
 Cutscene Trailer

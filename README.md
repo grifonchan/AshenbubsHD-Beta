@@ -2,7 +2,7 @@
 ## Stay up to date on Twitter:
 # http://twitter.com/ashenbubsHD
 
-# THIS IS THE BETA VERSION - DO NOT REPLACE ANY FILES, HIGH CHANCE OF BUGS, PLEASE REPORT ISSUES FOUND.
+# THIS IS THE BETA VERSION - DO NOT REPLACE ANY FILES, USE XIPIVOT, PLEASE REPORT ISSUES FOUND.
 
 I was getting asked by a lot of people if they could help out in some way - I genuinely get so happy whenever I see people enjoying these HD mods; checking out Twitch always puts a huge smile on my face and makes my day.  I'm looking at buying a new PC desk and some extra SSD storage, as my current one is causing me back pains and my disk space is dwindling~ You're not enforced or encouraged to do so in any way, but I've set up a donation link here:
 

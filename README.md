@@ -1,4 +1,4 @@
-# AshenbubsHD - BETA (USE AT OWN RISK)
+# AshenbubsHD - BETA (All files version)
 ## Stay up to date on Twitter:
 # http://twitter.com/ashenbubsHD
 
